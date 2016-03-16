@@ -2,6 +2,9 @@
 
 https://peerj.com/preprints/1401.pdf
 
+test data:
+https://sourceforge.net/projects/sparc-consensus/files/testdata/
+
 
 Parameters:
 

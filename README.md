@@ -7,6 +7,7 @@ https://sourceforge.net/projects/sparc-consensus/files/testdata/
 
 
 To compile from scratch, clone the directory and use the following command:
+
 g++ -O3 -o Sparc *.cpp
 
 

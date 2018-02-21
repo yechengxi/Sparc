@@ -1,6 +1,6 @@
 # Sparc: a sparsity-based consensus algorithm for long erroneous sequencing reads
 
-https://peerj.com/articles/2016.pdf
+Ye C, Ma Z. (2016) Sparc: a sparsity-based consensus algorithm for long erroneous sequencing reads. PeerJ 4:e2016 https://doi.org/10.7717/peerj.2016  
 
 test data:
 https://sourceforge.net/projects/sparc-consensus/files/testdata/
